@@ -3,7 +3,7 @@ CSS repository for sharing scripts/practises for all AppCenter enthusiasts!
 
 ## Projects
 
-#### Bash Email
+#### Bash Email - A simple script to notify AppCenter Build Success/Failure.
 
 ##### Pre-Requisites: 
 
