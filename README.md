@@ -1,7 +1,3 @@
-# AppCenter Examples
-
-## Projects
-
 #### Bash Email - A simple script to notify AppCenter Build Success/Failure.
 
 ##### Pre-Requisites: 
