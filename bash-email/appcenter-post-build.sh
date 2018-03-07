@@ -5,7 +5,7 @@ APP=AndrXam
 #This is to get the Build Details so we could pass it as part of the Email Body
 build_url=https://appcenter.ms/orgs/$ORG/apps/$APP/build/branches/$APPCENTER_BRANCH/builds/$APPCENTER_BUILD_ID
 #Address to send email
-TO_ADDRESS="manb@microsoft.com"
+TO_ADDRESS="receiver@domain.com"
 SUBJECT="AppCenter Build"
 SUCCESS_BODY="Success! Your build completed successfully!\n\n"
 FAILURE_BODY="Sorry! Your AppCenter Build failed. Please review the logs and try again.\n\n"
