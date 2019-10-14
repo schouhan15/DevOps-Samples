@@ -1,3 +1,5 @@
+##### Feature added to the Product - consider using [this](https://docs.microsoft.com/en-us/appcenter/dashboard/email-notifications/)
+
 #### Bash Email - A simple script to notify AppCenter Build Success/Failure.
 
 ##### Pre-Requisites: 
