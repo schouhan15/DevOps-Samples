@@ -1,0 +1,22 @@
+﻿============================================================
+
+"Select [State], [Title]" +
+"From WorkItems " +
+"Where [Work Item Type] = 'Bug' " +
+"And [System.TeamProject] = '" + teamProj + "' " +
+"And [System.State] <> 'Closed' " +
+"Order By [State] Asc, [Changed Date] Desc";
+
+============================================================
+
+"SELECT [System.Id]," +
+"[System.WorkItemType]," +
+"[System.Title]," +
+"[System.AssignedTo]," +
+"[System.State]," +
+"[System.Tags]" +
+"FROM workitems " +
+"WHERE [System.TeamProject] = '" + teamProj + "' " +
+"AND[System.WorkItemType] <> '' " +
+"AND[System.State] <> '' ";
+===========================================================
